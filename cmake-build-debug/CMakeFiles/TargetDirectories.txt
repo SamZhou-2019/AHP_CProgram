@@ -1,0 +1,3 @@
+C:/Users/lenovo/GitHub/CProgram/cmake-build-debug/CMakeFiles/CProgram.dir
+C:/Users/lenovo/GitHub/CProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/GitHub/CProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir

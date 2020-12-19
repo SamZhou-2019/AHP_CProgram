@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/GitHub/CProgram/ahp.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
+C:/Users/lenovo/GitHub/CProgram/main.c
+stdio.h
+-
+
